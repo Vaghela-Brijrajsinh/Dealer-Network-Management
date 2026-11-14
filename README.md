@@ -752,36 +752,7 @@ Confirm that the API returns the running message.
 The backend package currently contains a placeholder `npm test` script;
 it does not define a project test suite in the uploaded `package.json`.
 
-------------------------------------------------------------------------
 
-## 📷 Screenshots
-
-Add screenshots of the running application to a folder such as:
-
-``` text
-docs/
-└── screenshots/
-    ├── home.png
-    ├── login.png
-    ├── registration.png
-    ├── admin-dashboard.png
-    ├── dealer-requests.png
-    ├── manage-dealers.png
-    ├── manage-products.png
-    ├── dealer-dashboard.png
-    ├── product-list.png
-    ├── cart.png
-    ├── orders.png
-    ├── payments.png
-    ├── shipments.png
-    └── complaints.png
-```
-
-After adding the images, display them in this section, for example:
-
-``` markdown
-![Home Page](docs/screenshots/home.png)
-```
 
 ------------------------------------------------------------------------
 
@@ -817,45 +788,7 @@ Before deploying the application:
 8.  Manage contact messages from one place.
 9.  Use a REST API and MongoDB for data management.
 
-------------------------------------------------------------------------
 
-## 🔮 Future Enhancements
-
-Possible future improvements include:
-
--   Server-side pagination and filtering for large product/order lists.
--   Stronger role-based authorization middleware.
--   Dashboard analytics and reports.
--   Search and advanced filters.
--   Automated invoice PDF generation.
--   Payment gateway integration.
--   SMS or WhatsApp notifications.
--   Shipment tracking integration.
--   Automated database backups.
--   Unit and integration test coverage.
--   Cloud deployment and CI/CD.
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Developer
-
-**Brijrajsinh Vaghela**
-
-Dealer Network Management -- Full-Stack Web Application
-
-**Technical areas demonstrated:**
-
--   React and Vite
--   JavaScript and JSX
--   Node.js and Express.js
--   REST API development
--   MongoDB and Mongoose
--   Authentication and password hashing
--   File uploads
--   Order and payment workflows
--   Shipment and complaint management
--   Frontend/backend integration
--   API testing with Postman
 
 ------------------------------------------------------------------------
 
