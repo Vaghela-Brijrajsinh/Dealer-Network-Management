@@ -304,7 +304,7 @@ Dealer Network Management/
 │   ├── server.js
 │   ├── package.json
 │   ├── package-lock.json
-│   └── .env                 (create locally; do not commit)
+│   └── .env                 
 │
 ├── frontend/
 │   ├── public/
