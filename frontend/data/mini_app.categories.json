@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6a9686aae06af94c69090e89"
+  },
+  "name": "Electronics",
+  "subcategories": [
+    {
+      "name": "Phone",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e8a"
+      }
+    },
+    {
+      "name": "Charger",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e8b"
+      }
+    },
+    {
+      "name": "Earphone",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e8c"
+      }
+    },
+    {
+      "name": "Headphone",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e8d"
+      }
+    },
+    {
+      "name": "Power Bank",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e8e"
+      }
+    },
+    {
+      "name": "Computer",
+      "subTypes": [
+        "Laptop",
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Laptop Stand"
+      ],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e90"
+      }
+    }
+  ],
+  "__v": 3,
+  "createdAt": {
+    "$date": "2026-09-01T08:02:50.626Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-06T13:44:45.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9686aae06af94c69090e91"
+  },
+  "name": "Home Appliances",
+  "subcategories": [
+    {
+      "name": "Refrigerator",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e92"
+      }
+    },
+    {
+      "name": "Washing Machine",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e93"
+      }
+    },
+    {
+      "name": "Air Conditioner",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e94"
+      }
+    },
+    {
+      "name": "Air Cooler",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e96"
+      }
+    },
+    {
+      "name": "Ceiling Fan",
+      "subTypes": [],
+      "_id": {
+        "$oid": "6a9686aae06af94c69090e97"
+      }
+    }
+  ],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-01T08:02:50.630Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-06T14:11:56.194Z"
+  }
+}]
