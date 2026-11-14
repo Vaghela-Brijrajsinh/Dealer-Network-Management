@@ -20,7 +20,7 @@ function Payment() {
   const [errorMsg, setErrorMsg] = useState("");
   const [showInvoiceModal, setShowInvoiceModal] = useState(false);
 
-  const upiId = "9898283758@ybl";
+  const upiId = "Enter your UPI ID";
   const receiverName = "Dealer Network";
 
   // Static receiving bank details for NEFT / RTGS
